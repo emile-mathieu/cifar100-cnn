@@ -28,7 +28,7 @@ This repository demonstrates a PyTorch-based CNN model training on the CIFAR-100
 ## Restriction & Permissions
 
 - This project is provided without any license.
-- You may not copy, modify, distribute, or use any part of this code for any purpose, as it was created solely as a university project.
+- You may not copy, modify, distribute, or use any part of the python code for any purpose, as it was created solely as a university project.
 - You may, however, review the code for learning or inspiration only.
 - This project is provided as-is, without any warranty or guarantee of any kind.
 
